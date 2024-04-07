@@ -6,20 +6,20 @@
   </listeners>
   <test thread-count="5" name="Test(failed)">
     <parameter name="os" value="windows"/>
-    <parameter name="browser" value="edge"/>
+    <parameter name="browser" value="chrome"/>
     <groups>
       <run>
         <include name="master"/>
       </run>
     </groups>
     <classes>
-      <class name="testCases.TC_004_SearchProductTest">
+      <class name="testCases.TC_006_EndToEndTest">
         <methods>
           <include name="tearDown"/>
+          <include name="endToendTest"/>
           <include name="setup"/>
-          <include name="verify_pruductSearch"/>
         </methods>
-      </class> <!-- testCases.TC_004_SearchProductTest -->
+      </class> <!-- testCases.TC_006_EndToEndTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

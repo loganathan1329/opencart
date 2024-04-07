@@ -1,35 +1,30 @@
-15:02:32.188 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-15:02:32.198 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-15:02:32.199 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-15:02:32.199 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-15:02:32.199 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-15:02:32.201 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-15:02:32.202 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-15:02:32.204 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-15:02:32.204 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-15:02:32.204 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-15:02:32.204 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-15:02:32.221 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\lshp1\AppData\Local\Temp\testng-eclipse--1599442627\testng-customsuite.xml
-
-15:02:32.262 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 9 ms.
-15:02:32.640 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@1dfd5f51: 126 ms
-15:02:32.921 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@bae47a0: 281 ms
-15:02:32.950 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@60b85ba1: 27 ms
-15:02:32.969 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@1f2d2181: 19 ms
-15:02:32.982 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1db0ec27: 13 ms
-15:02:32.994 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5bbbdd4b: 11 ms
-15:02:32.994 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@438bad7c: 0 ms
-15:03:08.860 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\lshp1\eclipse-workspace\opencart\mastersuite.xml"
-15:03:09.353 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\lshp1\eclipse-workspace\opencart\mastersuite.xml
-
-15:03:15.378 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
-15:03:15.659 [main] INFO  testCases.TC_004_SearchProductTest - Product name entered in search box
-15:03:17.234 [main] INFO  testCases.TC_004_SearchProductTest - Search button clicked
-15:03:57.862 [main] INFO  testCases.TC_004_SearchProductTest - The searched product is exist
-21:56:44.047 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\lshp1\eclipse-workspace\opencart\mastersuite.xml"
-21:56:50.656 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
-21:56:50.939 [main] INFO  testCases.TC_004_SearchProductTest - Product name entered in search box
-21:56:52.424 [main] INFO  testCases.TC_004_SearchProductTest - Search button clicked
-21:56:52.488 [main] INFO  testCases.TC_004_SearchProductTest - The searched product is exist
+01:13:45.291 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+01:13:45.316 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+01:13:45.335 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+01:13:45.336 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+01:13:45.348 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+01:13:45.366 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+01:13:45.388 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+01:13:45.390 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+01:13:45.391 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+01:13:45.405 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+01:13:45.426 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+01:13:45.428 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+01:13:45.429 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+01:13:45.445 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+01:13:45.467 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+01:13:47.944 [main] INFO  testCases.TC_003_LoginDDT - clicking mylink for logout button
+01:13:48.032 [main] INFO  testCases.TC_003_LoginDDT - logging out
+01:13:48.762 [main] INFO  testCases.TC_003_LoginDDT - log out successfuly
+01:13:48.762 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+01:13:48.765 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+01:13:59.788 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+01:13:59.792 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+01:14:10.876 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+01:14:10.877 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+01:14:21.841 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+01:14:21.845 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+01:14:23.471 [main] INFO  testCases.TC_003_LoginDDT - clicking mylink for logout button
+01:14:23.558 [main] INFO  testCases.TC_003_LoginDDT - logging out
+01:14:24.109 [main] INFO  testCases.TC_003_LoginDDT - log out successfuly
+01:14:24.110 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
