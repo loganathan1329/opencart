@@ -1,0 +1,30 @@
+15:02:32.188 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:02:32.198 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:02:32.199 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:02:32.199 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:02:32.199 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:02:32.201 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:02:32.202 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:02:32.204 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:02:32.204 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:02:32.204 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:02:32.204 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:02:32.221 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lshp1\AppData\Local\Temp\testng-eclipse--1599442627\testng-customsuite.xml
+
+15:02:32.262 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 9 ms.
+15:02:32.640 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@1dfd5f51: 126 ms
+15:02:32.921 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@bae47a0: 281 ms
+15:02:32.950 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@60b85ba1: 27 ms
+15:02:32.969 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@1f2d2181: 19 ms
+15:02:32.982 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1db0ec27: 13 ms
+15:02:32.994 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5bbbdd4b: 11 ms
+15:02:32.994 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@438bad7c: 0 ms
+15:03:08.860 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\lshp1\eclipse-workspace\opencart\mastersuite.xml"
+15:03:09.353 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lshp1\eclipse-workspace\opencart\mastersuite.xml
+
+15:03:15.378 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+15:03:15.659 [main] INFO  testCases.TC_004_SearchProductTest - Product name entered in search box
+15:03:17.234 [main] INFO  testCases.TC_004_SearchProductTest - Search button clicked
+15:03:57.862 [main] INFO  testCases.TC_004_SearchProductTest - The searched product is exist

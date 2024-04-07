@@ -1,0 +1,55 @@
+14:46:50.480 [main] INFO  testCases.TC_004_SearchProductTest - Search button clicked
+14:46:50.612 [main] INFO  testCases.TC_004_SearchProductTest - The searched product is exist
+14:51:31.478 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\lshp1\eclipse-workspace\opencart\mastersuite.xml"
+14:51:32.032 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lshp1\eclipse-workspace\opencart\mastersuite.xml
+
+14:51:43.235 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+14:51:43.521 [main] INFO  testCases.TC_004_SearchProductTest - Product name entered in search box
+14:51:45.450 [main] INFO  testCases.TC_004_SearchProductTest - Search button clicked
+14:51:45.703 [main] INFO  testCases.TC_004_SearchProductTest - The searched product is exist
+14:51:45.704 [main] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+14:54:55.905 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\lshp1\eclipse-workspace\opencart\mastersuite.xml"
+14:54:56.379 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lshp1\eclipse-workspace\opencart\mastersuite.xml
+
+14:55:02.425 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+14:55:02.702 [main] INFO  testCases.TC_004_SearchProductTest - Product name entered in search box
+14:55:04.540 [main] INFO  testCases.TC_004_SearchProductTest - Search button clicked
+14:55:04.620 [main] INFO  testCases.TC_004_SearchProductTest - The searched product is exist
+14:58:16.480 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\lshp1\eclipse-workspace\opencart\mastersuite.xml"
+14:58:17.004 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lshp1\eclipse-workspace\opencart\mastersuite.xml
+
+14:58:27.632 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+14:58:27.952 [main] INFO  testCases.TC_004_SearchProductTest - Product name entered in search box
+14:58:29.923 [main] INFO  testCases.TC_004_SearchProductTest - Search button clicked
+14:58:29.988 [main] INFO  testCases.TC_004_SearchProductTest - The searched product is exist
+15:01:22.467 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\lshp1\eclipse-workspace\opencart\mastersuite.xml"
+15:01:23.317 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lshp1\eclipse-workspace\opencart\mastersuite.xml
+
+15:01:29.863 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+15:01:30.104 [main] INFO  testCases.TC_004_SearchProductTest - Product name entered in search box
+15:01:32.204 [main] INFO  testCases.TC_004_SearchProductTest - Search button clicked
+15:01:32.308 [main] INFO  testCases.TC_004_SearchProductTest - The searched product is exist
+15:02:31.697 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\lshp1\AppData\Local\Temp\testng-eclipse--1599442627\testng-customsuite.xml"
+15:02:32.144 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:02:32.148 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+15:02:32.150 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:02:32.150 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:02:32.152 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:02:32.152 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:02:32.153 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:02:32.153 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:02:32.163 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms.
+15:02:32.177 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 12 ms.
+15:02:32.180 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:02:32.181 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:02:32.182 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:02:32.182 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:02:32.183 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:02:32.183 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:02:32.186 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:02:32.186 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:02:32.187 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
