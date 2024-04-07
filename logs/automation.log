@@ -28,3 +28,8 @@
 15:03:15.659 [main] INFO  testCases.TC_004_SearchProductTest - Product name entered in search box
 15:03:17.234 [main] INFO  testCases.TC_004_SearchProductTest - Search button clicked
 15:03:57.862 [main] INFO  testCases.TC_004_SearchProductTest - The searched product is exist
+21:56:44.047 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\lshp1\eclipse-workspace\opencart\mastersuite.xml"
+21:56:50.656 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+21:56:50.939 [main] INFO  testCases.TC_004_SearchProductTest - Product name entered in search box
+21:56:52.424 [main] INFO  testCases.TC_004_SearchProductTest - Search button clicked
+21:56:52.488 [main] INFO  testCases.TC_004_SearchProductTest - The searched product is exist
